@@ -28,6 +28,6 @@
     "node": "^6"
   },
   "devDependencies": {
-    "browserstack-node-sdk": "latest"
+    "browserstack-node-sdk": "^1.32.2"
   }
 }
