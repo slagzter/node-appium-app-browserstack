@@ -22,7 +22,6 @@ buildName: unipol test build - NodeJS
 # ${DATE_TIME}: Generates a Timestamp with every execution. Eg. 05-Nov-19:30
 # Read more about buildIdentifiers here -> https://www.browserstack.com/docs/automate/selenium/organize-tests
 buildIdentifier: '#${BUILD_NUMBER}' # Supports strings along with either/both ${expression}
-framework: appium
 source: node:appium-sample-sdk:v1.0
 
 # Set `app` to define the app that is to be used for testing. 
